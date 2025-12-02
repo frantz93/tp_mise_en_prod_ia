@@ -1,2 +1,2 @@
-# tp_mise_en_prod_ia
-TP Cours A61 - Mise en production d'une solution IA
+# cours-A61
+Préparation de la solution d'IA pour la mise en production
